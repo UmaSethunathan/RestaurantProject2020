@@ -1,0 +1,413 @@
+2018-11-22 08:06:42,392 - ebanking -INFO - URL is opened
+2018-11-22 08:06:42,718 - ebanking -INFO - Entered username
+2018-11-22 08:06:42,945 - ebanking -INFO - Entered password
+2018-11-22 08:06:44,340 - ebanking -INFO - Login test passed
+2018-11-23 06:59:39,910 - ebanking -INFO - URL is opened
+2018-11-23 06:59:40,159 - ebanking -INFO - Entered username
+2018-11-23 06:59:40,342 - ebanking -INFO - Entered password
+2018-11-23 06:59:42,544 - ebanking -INFO - Login test passed
+2018-11-23 07:10:35,432 - ebanking -INFO - URL is opened
+2018-11-23 07:10:35,755 - ebanking -INFO - Entered username
+2018-11-23 07:10:35,968 - ebanking -INFO - Entered password
+2018-11-23 07:10:37,326 - ebanking -INFO - Login test passed
+2018-11-23 07:13:11,746 - ebanking -INFO - URL is opened
+2018-11-23 07:13:17,047 - ebanking -INFO - Entered username
+2018-11-23 07:13:18,666 - ebanking -INFO - Entered password
+2018-11-23 07:13:20,989 - ebanking -INFO - Login test passed
+2018-11-23 07:14:14,479 - ebanking -INFO - URL is opened
+2018-11-23 07:14:14,978 - ebanking -INFO - Entered username
+2018-11-23 07:14:15,207 - ebanking -INFO - Entered password
+2018-11-23 07:14:18,038 - ebanking -INFO - Login test passed
+2018-11-23 07:30:16,264 - ebanking -INFO - URL is opened
+2018-11-23 07:30:16,696 - ebanking -INFO - Entered username
+2018-11-23 07:30:16,925 - ebanking -INFO - Entered password
+2018-11-23 07:30:18,507 - ebanking -INFO - Login test passed
+2018-11-24 06:39:12,523 - ebanking -INFO - URL is opened
+2018-11-24 06:39:12,827 - ebanking -INFO - Entered username
+2018-11-24 06:39:12,971 - ebanking -INFO - Entered password
+2018-11-24 07:23:31,087 - ebanking -INFO - user name provided
+2018-11-24 07:23:31,338 - ebanking -INFO - password provided
+2018-11-24 07:23:35,883 - ebanking -INFO - Login passed
+2018-11-24 07:23:41,171 - ebanking -INFO - user name provided
+2018-11-24 07:23:41,940 - ebanking -INFO - password provided
+2018-11-24 07:23:46,801 - ebanking -INFO - user name provided
+2018-11-24 07:23:47,182 - ebanking -INFO - password provided
+2018-11-24 07:23:51,933 - ebanking -INFO - user name provided
+2018-11-24 07:23:52,219 - ebanking -INFO - password provided
+2018-11-24 07:23:56,749 - ebanking -INFO - Login passed
+2018-11-24 07:24:02,347 - ebanking -INFO - user name provided
+2018-11-24 07:24:02,560 - ebanking -INFO - password provided
+2018-11-24 07:54:34,201 - ebanking -INFO - User name is provided
+2018-11-24 07:54:34,418 - ebanking -INFO - Passsword is provided
+2018-11-24 07:54:39,590 - ebanking -INFO - providing customer details....
+2018-11-24 07:54:48,653 - ebanking -INFO - validation started....
+2018-11-24 07:54:48,730 - ebanking -INFO - test case passed....
+2018-11-24 07:56:49,183 - ebanking -INFO - URL is opened
+2018-11-24 07:56:49,436 - ebanking -INFO - Entered username
+2018-11-24 07:56:49,618 - ebanking -INFO - Entered password
+2018-11-24 07:57:00,690 - ebanking -INFO - user name provided
+2018-11-24 07:57:00,836 - ebanking -INFO - password provided
+2018-11-24 07:57:05,351 - ebanking -INFO - Login passed
+2018-11-24 07:57:12,654 - ebanking -INFO - user name provided
+2018-11-24 07:57:12,863 - ebanking -INFO - password provided
+2018-11-24 07:57:19,331 - ebanking -INFO - user name provided
+2018-11-24 07:57:19,521 - ebanking -INFO - password provided
+2018-11-24 07:57:25,056 - ebanking -INFO - user name provided
+2018-11-24 07:57:25,176 - ebanking -INFO - password provided
+2018-11-24 07:57:29,487 - ebanking -INFO - Login passed
+2018-11-24 07:57:36,479 - ebanking -INFO - user name provided
+2018-11-24 07:57:36,615 - ebanking -INFO - password provided
+2018-11-24 07:57:48,990 - ebanking -INFO - User name is provided
+2018-11-24 07:57:49,140 - ebanking -INFO - Passsword is provided
+2018-11-24 07:57:54,290 - ebanking -INFO - providing customer details....
+2018-11-24 07:58:03,372 - ebanking -INFO - validation started....
+2018-11-24 07:58:03,393 - ebanking -INFO - test case passed....
+2018-11-24 08:00:42,420 - ebanking -INFO - user name provided
+2018-11-24 08:00:42,689 - ebanking -INFO - password provided
+2018-11-24 08:00:48,510 - ebanking -INFO - user name provided
+2018-11-24 08:00:48,822 - ebanking -INFO - password provided
+2018-11-24 08:00:54,700 - ebanking -INFO - user name provided
+2018-11-24 08:00:55,015 - ebanking -INFO - password provided
+2018-11-24 08:01:06,498 - ebanking -INFO - URL is opened
+2018-11-24 08:01:06,690 - ebanking -INFO - Entered username
+2018-11-24 08:01:06,863 - ebanking -INFO - Entered password
+2018-11-24 08:01:08,353 - ebanking -INFO - Login test passed
+2018-11-27 06:46:57,598 - ebanking -INFO - URL is opened
+2018-11-27 06:46:57,912 - ebanking -INFO - Entered username
+2018-11-27 06:46:58,082 - ebanking -INFO - Entered password
+2018-11-27 06:46:59,490 - ebanking -INFO - Login test passed
+2018-11-27 06:47:06,753 - ebanking -INFO - User name is provided
+2018-11-27 06:47:06,945 - ebanking -INFO - Passsword is provided
+2018-11-27 06:47:12,518 - ebanking -INFO - providing customer details....
+2018-11-27 06:47:22,094 - ebanking -INFO - validation started....
+2018-11-27 06:47:22,128 - ebanking -INFO - test case passed....
+2018-11-27 07:07:41,422 - ebanking -INFO - URL is opened
+2018-11-27 07:07:41,799 - ebanking -INFO - Entered username
+2018-11-27 07:07:42,010 - ebanking -INFO - Entered password
+2018-11-27 07:07:44,072 - ebanking -INFO - Login test passed
+2018-11-27 07:07:51,443 - ebanking -INFO - User name is provided
+2018-11-27 07:07:51,664 - ebanking -INFO - Passsword is provided
+2018-11-27 07:07:57,563 - ebanking -INFO - providing customer details....
+2018-11-27 07:08:06,501 - ebanking -INFO - validation started....
+2018-11-27 07:09:27,107 - ebanking -INFO - URL is opened
+2018-11-27 07:09:27,361 - ebanking -INFO - Entered username
+2018-11-27 07:09:27,590 - ebanking -INFO - Entered password
+2018-11-27 07:09:29,131 - ebanking -INFO - Login test passed
+2018-11-27 07:09:37,089 - ebanking -INFO - User name is provided
+2018-11-27 07:09:37,251 - ebanking -INFO - Passsword is provided
+2018-11-27 07:09:43,571 - ebanking -INFO - providing customer details....
+2018-11-27 07:09:56,913 - ebanking -INFO - validation started....
+2018-11-27 07:09:56,947 - ebanking -INFO - test case passed....
+2018-11-27 07:13:55,575 - ebanking -INFO - URL is opened
+2018-11-27 07:13:55,850 - ebanking -INFO - Entered username
+2018-11-27 07:13:56,057 - ebanking -INFO - Entered password
+2018-11-27 07:13:57,451 - ebanking -INFO - Login test passed
+2018-11-27 07:14:04,781 - ebanking -INFO - User name is provided
+2018-11-27 07:14:04,918 - ebanking -INFO - Passsword is provided
+2018-11-27 07:14:10,040 - ebanking -INFO - providing customer details....
+2018-11-27 07:14:21,394 - ebanking -INFO - validation started....
+2018-11-27 07:14:21,430 - ebanking -INFO - test case passed....
+2018-11-27 07:42:32,801 - ebanking -INFO - URL is opened
+2018-11-27 07:42:33,008 - ebanking -INFO - Entered username
+2018-11-27 07:42:33,130 - ebanking -INFO - Entered password
+2018-11-27 07:42:36,278 - ebanking -INFO - Login test passed
+2018-11-27 07:42:43,914 - ebanking -INFO - User name is provided
+2018-11-27 07:42:44,046 - ebanking -INFO - Passsword is provided
+2018-11-27 07:42:49,371 - ebanking -INFO - providing customer details....
+2018-11-27 07:43:02,036 - ebanking -INFO - validation started....
+2018-11-27 07:43:02,081 - ebanking -INFO - test case passed....
+2018-11-27 07:55:25,354 - ebanking -INFO - URL is opened
+2018-11-27 07:55:26,413 - ebanking -INFO - Entered username
+2018-11-27 07:55:26,604 - ebanking -INFO - Entered password
+2018-11-27 07:55:27,991 - ebanking -INFO - Login test passed
+2018-11-27 07:55:37,183 - ebanking -INFO - User name is provided
+2018-11-27 07:55:37,365 - ebanking -INFO - Passsword is provided
+2018-11-27 07:55:42,851 - ebanking -INFO - providing customer details....
+2018-11-27 07:55:58,716 - ebanking -INFO - validation started....
+2018-11-27 07:55:58,749 - ebanking -INFO - test case passed....
+2019-11-30 13:41:09,898 - WebApplication Testing -INFO - URL is opened
+2019-11-30 13:41:14,820 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 13:41:23,361 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 13:41:23,916 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 13:41:23,922 - WebApplication Testing -INFO - Login test passed
+2019-11-30 13:42:27,962 - WebApplication Testing -INFO - URL is opened
+2019-11-30 13:42:32,228 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 13:42:40,976 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 13:42:41,362 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 13:42:41,369 - WebApplication Testing -INFO - Login test passed
+2019-11-30 13:46:37,718 - WebApplication Testing -INFO - URL is opened
+2019-11-30 13:46:42,004 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 13:46:51,776 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 13:46:52,358 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 13:46:52,368 - WebApplication Testing -INFO - Login test passed
+2019-11-30 13:50:15,290 - WebApplication Testing -INFO - URL is opened
+2019-11-30 13:50:19,681 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 13:50:27,955 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 13:50:28,456 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 13:50:28,467 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:01:05,722 - WebApplication Testing -INFO - URL is opened
+2019-11-30 14:01:10,016 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 14:01:19,052 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 14:01:19,543 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 14:01:19,550 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:04:28,977 - WebApplication Testing -INFO - URL is opened
+2019-11-30 14:04:33,276 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 14:04:41,696 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 14:04:42,119 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 14:04:42,124 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:16:36,307 - WebApplication Testing -INFO - URL is opened
+2019-11-30 14:16:40,614 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 14:16:49,649 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 14:16:50,017 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 14:16:50,022 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:16:59,896 - WebApplication Testing -INFO - URL is opened
+2019-11-30 14:17:04,144 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 14:17:13,178 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 14:17:13,610 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 14:17:13,615 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:19:35,185 - WebApplication Testing -INFO - URL is opened
+2019-11-30 14:19:39,464 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 14:19:48,146 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 14:19:48,727 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 14:19:48,733 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:19:58,862 - WebApplication Testing -INFO - URL is opened
+2019-11-30 14:20:03,096 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 14:20:11,868 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 14:20:12,298 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 14:20:12,303 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:24:40,974 - WebApplication Testing -INFO - URL is opened
+2019-11-30 14:24:45,250 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 14:24:53,920 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 14:24:54,363 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 14:24:54,368 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:25:03,930 - WebApplication Testing -INFO - URL is opened
+2019-11-30 14:25:08,191 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 14:25:16,877 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 14:25:17,223 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 14:25:17,227 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:29:00,892 - WebApplication Testing -INFO - URL is opened
+2019-11-30 14:29:00,900 - WebApplication Testing -INFO - step 1
+2019-11-30 14:29:00,924 - WebApplication Testing -INFO - step 2
+2019-11-30 14:29:05,067 - WebApplication Testing -INFO - step 3
+2019-11-30 14:29:05,188 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 14:29:13,620 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 14:29:14,113 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 14:29:14,119 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:29:24,063 - WebApplication Testing -INFO - URL is opened
+2019-11-30 14:29:24,066 - WebApplication Testing -INFO - step 1
+2019-11-30 14:29:24,066 - WebApplication Testing -INFO - step 2
+2019-11-30 14:29:28,193 - WebApplication Testing -INFO - step 3
+2019-11-30 14:29:28,429 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 14:29:36,918 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 14:29:37,273 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 14:29:37,278 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:31:28,936 - WebApplication Testing -INFO - step 10
+2019-11-30 14:31:33,062 - WebApplication Testing -INFO - step 11
+2019-11-30 14:31:33,072 - WebApplication Testing -INFO - URL is opened
+2019-11-30 14:31:33,076 - WebApplication Testing -INFO - step 1
+2019-11-30 14:31:33,093 - WebApplication Testing -INFO - step 2
+2019-11-30 14:31:33,093 - WebApplication Testing -INFO - step 3
+2019-11-30 14:31:33,219 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 14:31:42,404 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 14:31:42,798 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 14:31:42,804 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:31:52,563 - WebApplication Testing -INFO - step 10
+2019-11-30 14:31:56,684 - WebApplication Testing -INFO - step 11
+2019-11-30 14:31:56,685 - WebApplication Testing -INFO - URL is opened
+2019-11-30 14:31:56,689 - WebApplication Testing -INFO - step 1
+2019-11-30 14:31:56,690 - WebApplication Testing -INFO - step 2
+2019-11-30 14:31:56,690 - WebApplication Testing -INFO - step 3
+2019-11-30 14:31:56,809 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 14:32:05,471 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 14:32:05,885 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 14:32:05,890 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:42:28,548 - WebApplication Testing -INFO - URL is opened
+2019-11-30 14:42:28,762 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 14:42:37,329 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 14:42:37,803 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 14:42:37,808 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:42:52,434 - WebApplication Testing -INFO - URL is opened
+2019-11-30 14:42:52,566 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 14:43:01,117 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 14:43:01,511 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 14:43:01,514 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:43:34,972 - WebApplication Testing -INFO - URL is opened
+2019-11-30 14:43:35,118 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 14:43:44,198 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 14:43:44,643 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 14:43:44,649 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:43:58,615 - WebApplication Testing -INFO - URL is opened
+2019-11-30 14:43:58,749 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 14:44:08,024 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 14:44:08,654 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 14:44:08,660 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:53:25,981 - WebApplication Testing -INFO - URL is opened
+2019-11-30 14:53:26,141 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 14:53:34,688 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 14:53:35,248 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 14:53:35,255 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:53:48,685 - WebApplication Testing -INFO - URL is opened
+2019-11-30 14:53:48,858 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 14:53:57,785 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 14:53:58,248 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 14:53:58,252 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:58:19,049 - WebApplication Testing -INFO - URL is opened
+2019-11-30 14:58:19,240 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 14:58:28,503 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 14:58:28,874 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 14:58:28,883 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:58:43,171 - WebApplication Testing -INFO - URL is opened
+2019-11-30 14:58:43,504 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 14:58:52,044 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 14:58:52,469 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 14:58:52,475 - WebApplication Testing -INFO - Login test passed
+2019-11-30 14:58:53,716 - WebApplication Testing -INFO - Entered Indian
+2019-11-30 14:58:56,417 - WebApplication Testing -INFO - Clicked Serach Button
+2019-11-30 15:00:43,607 - WebApplication Testing -INFO - URL is opened
+2019-11-30 15:00:43,806 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 15:00:52,414 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 15:00:52,859 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 15:00:52,865 - WebApplication Testing -INFO - Login test passed
+2019-11-30 15:01:06,682 - WebApplication Testing -INFO - URL is opened
+2019-11-30 15:01:06,881 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 15:01:15,395 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 15:01:15,799 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 15:01:15,805 - WebApplication Testing -INFO - Login test passed
+2019-11-30 15:01:17,045 - WebApplication Testing -INFO - Entered Indian
+2019-11-30 15:01:19,357 - WebApplication Testing -INFO - Clicked Serach Button
+2019-11-30 15:06:34,490 - WebApplication Testing -INFO - URL is opened
+2019-11-30 15:06:34,654 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 15:06:43,795 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 15:06:44,204 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 15:06:44,209 - WebApplication Testing -INFO - Login test passed
+2019-11-30 15:06:58,569 - WebApplication Testing -INFO - URL is opened
+2019-11-30 15:06:58,696 - WebApplication Testing -INFO - Entered Postalcode
+2019-11-30 15:07:07,698 - WebApplication Testing -INFO - Clicked On Search Button
+2019-11-30 15:07:08,139 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-11-30 15:07:08,143 - WebApplication Testing -INFO - Login test passed
+2019-11-30 15:07:09,350 - WebApplication Testing -INFO - Entered Indian
+2019-11-30 15:07:11,835 - WebApplication Testing -INFO - Clicked Serach Button
+2019-11-30 15:07:14,803 - WebApplication Testing -INFO - Chosen the Indian Restaurant Successfully
+2019-12-01 00:14:58,655 - WebApplication Testing -INFO - URL is opened
+2019-12-01 00:14:58,987 - WebApplication Testing -INFO - Entered Postalcode
+2019-12-01 00:15:08,360 - WebApplication Testing -INFO - Clicked On Search Button
+2019-12-01 00:15:08,969 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-12-01 00:15:08,974 - WebApplication Testing -INFO - Login test passed
+2019-12-01 00:15:22,499 - WebApplication Testing -INFO - URL is opened
+2019-12-01 00:15:22,666 - WebApplication Testing -INFO - Entered Postalcode
+2019-12-01 00:15:31,007 - WebApplication Testing -INFO - Clicked On Search Button
+2019-12-01 00:15:31,688 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-12-01 00:15:31,693 - WebApplication Testing -INFO - Login test passed
+2019-12-01 00:15:32,892 - WebApplication Testing -INFO - Entered Indian
+2019-12-01 00:15:35,685 - WebApplication Testing -INFO - Clicked Serach Button
+2019-12-01 00:15:38,259 - WebApplication Testing -INFO - Chosen the Indian Restaurant Successfully
+2019-12-01 00:18:14,077 - WebApplication Testing -INFO - URL is opened
+2019-12-01 00:18:14,249 - WebApplication Testing -INFO - Entered Postalcode
+2019-12-01 00:18:21,728 - WebApplication Testing -INFO - Clicked On Search Button
+2019-12-01 00:18:22,254 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-12-01 00:18:22,265 - WebApplication Testing -INFO - Login test passed
+2019-12-01 00:18:36,478 - WebApplication Testing -INFO - URL is opened
+2019-12-01 00:18:36,589 - WebApplication Testing -INFO - Entered Postalcode
+2019-12-01 00:18:44,012 - WebApplication Testing -INFO - Clicked On Search Button
+2019-12-01 00:18:44,440 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-12-01 00:18:44,444 - WebApplication Testing -INFO - Login test passed
+2019-12-01 00:18:45,684 - WebApplication Testing -INFO - Entered Indian
+2019-12-01 00:18:47,843 - WebApplication Testing -INFO - Clicked Serach Button
+2019-12-01 00:18:50,503 - WebApplication Testing -INFO - Chosen the Indian Restaurant Successfully
+2019-12-01 00:19:06,008 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:19:26,220 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:19:46,299 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:20:06,386 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:22:27,317 - WebApplication Testing -INFO - URL is opened
+2019-12-01 00:22:27,494 - WebApplication Testing -INFO - Entered Postalcode
+2019-12-01 00:22:35,232 - WebApplication Testing -INFO - Clicked On Search Button
+2019-12-01 00:22:35,684 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-12-01 00:22:35,691 - WebApplication Testing -INFO - Login test passed
+2019-12-01 00:22:49,778 - WebApplication Testing -INFO - URL is opened
+2019-12-01 00:22:49,883 - WebApplication Testing -INFO - Entered Postalcode
+2019-12-01 00:22:58,346 - WebApplication Testing -INFO - Clicked On Search Button
+2019-12-01 00:22:58,740 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-12-01 00:22:58,746 - WebApplication Testing -INFO - Login test passed
+2019-12-01 00:23:10,556 - WebApplication Testing -INFO - Entered Indian
+2019-12-01 00:23:15,802 - WebApplication Testing -INFO - Clicked Serach Button
+2019-12-01 00:23:19,720 - WebApplication Testing -INFO - Chosen the Indian Restaurant Successfully
+2019-12-01 00:25:39,383 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:28:41,647 - WebApplication Testing -INFO - URL is opened
+2019-12-01 00:28:41,817 - WebApplication Testing -INFO - Entered Postalcode
+2019-12-01 00:28:50,163 - WebApplication Testing -INFO - Clicked On Search Button
+2019-12-01 00:28:50,544 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-12-01 00:28:50,550 - WebApplication Testing -INFO - Login test passed
+2019-12-01 00:29:04,332 - WebApplication Testing -INFO - URL is opened
+2019-12-01 00:29:04,496 - WebApplication Testing -INFO - Entered Postalcode
+2019-12-01 00:29:12,669 - WebApplication Testing -INFO - Clicked On Search Button
+2019-12-01 00:29:13,047 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-12-01 00:29:13,052 - WebApplication Testing -INFO - Login test passed
+2019-12-01 00:29:14,260 - WebApplication Testing -INFO - Entered Indian
+2019-12-01 00:29:17,156 - WebApplication Testing -INFO - Clicked Serach Button
+2019-12-01 00:29:19,893 - WebApplication Testing -INFO - Chosen the Indian Restaurant Successfully
+2019-12-01 00:29:34,081 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:31:34,241 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:31:58,805 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:32:30,010 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:37:25,414 - WebApplication Testing -INFO - URL is opened
+2019-12-01 00:37:25,561 - WebApplication Testing -INFO - Entered Postalcode
+2019-12-01 00:37:33,572 - WebApplication Testing -INFO - Clicked On Search Button
+2019-12-01 00:37:34,003 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-12-01 00:37:34,015 - WebApplication Testing -INFO - Login test passed
+2019-12-01 00:37:47,853 - WebApplication Testing -INFO - URL is opened
+2019-12-01 00:37:48,004 - WebApplication Testing -INFO - Entered Postalcode
+2019-12-01 00:37:55,956 - WebApplication Testing -INFO - Clicked On Search Button
+2019-12-01 00:37:56,336 - WebApplication Testing -INFO - Found Restaurants in your Area
+2019-12-01 00:37:56,341 - WebApplication Testing -INFO - Login test passed
+2019-12-01 00:37:57,569 - WebApplication Testing -INFO - Entered Indian
+2019-12-01 00:37:59,963 - WebApplication Testing -INFO - Clicked Serach Button
+2019-12-01 00:38:02,518 - WebApplication Testing -INFO - Chosen the Indian Restaurant Successfully
+2019-12-01 00:38:16,682 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:38:18,261 - WebApplication Testing -INFO - Successfully signup
+2019-12-01 00:38:18,263 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:38:38,706 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:38:58,735 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:43:15,088 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:43:15,455 - WebApplication Testing -INFO - Successfully signup
+2019-12-01 00:43:15,467 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:43:16,882 - WebApplication Testing -INFO - Successfully signup
+2019-12-01 00:43:16,885 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:43:37,596 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:44:25,862 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:45:07,091 - WebApplication Testing -INFO - Successfully signup
+2019-12-01 00:46:39,873 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:46:58,289 - WebApplication Testing -INFO - Name is missing , unable to signup
+2019-12-01 00:47:36,674 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:48:10,795 - WebApplication Testing -INFO - Email is missing , unable to signup
+2019-12-01 00:48:30,728 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:48:54,918 - WebApplication Testing -INFO - pwd is missing , unable to signup
+2019-12-01 00:49:04,538 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:49:22,839 - WebApplication Testing -INFO - Successfully signup
+2019-12-01 00:52:36,806 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:52:37,273 - WebApplication Testing -INFO - Name is missing , unable to signup
+2019-12-01 00:52:37,283 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:52:37,667 - WebApplication Testing -INFO - Email is missing , unable to signup
+2019-12-01 00:52:37,670 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:52:38,238 - WebApplication Testing -INFO - pwd is missing , unable to signup
+2019-12-01 00:52:38,240 - WebApplication Testing -INFO - Entered into SignUp
+2019-12-01 00:52:39,151 - WebApplication Testing -INFO - Successfully signup
+2020-05-07 13:45:16,676 - WebApplication Testing -INFO - URL is opened
+2020-05-07 13:45:17,140 - WebApplication Testing -INFO - Entered Postalcode
+2020-05-07 13:45:34,518 - WebApplication Testing -INFO - Clicked On Search Button
+2020-05-07 13:45:34,994 - WebApplication Testing -INFO - Found Restaurants in your Area
+2020-05-07 13:45:35,006 - WebApplication Testing -INFO - Login test passed
+2020-05-07 13:45:47,832 - WebApplication Testing -INFO - URL is opened
+2020-05-07 13:45:48,040 - WebApplication Testing -INFO - Entered Postalcode
+2020-05-07 13:46:04,235 - WebApplication Testing -INFO - Clicked On Search Button
+2020-05-07 13:46:04,497 - WebApplication Testing -INFO - Found Restaurants in your Area
+2020-05-07 13:46:04,503 - WebApplication Testing -INFO - Login test passed
+2020-05-07 13:46:05,981 - WebApplication Testing -INFO - Entered Indian
+2020-05-07 13:46:09,105 - WebApplication Testing -INFO - Clicked Serach Button
+2020-05-07 13:46:54,138 - WebApplication Testing -INFO - Entered into SignUp
+2020-05-07 13:46:54,803 - WebApplication Testing -INFO - Name is missing , unable to signup
+2020-05-07 13:46:54,806 - WebApplication Testing -INFO - Entered into SignUp
+2020-05-07 13:46:55,406 - WebApplication Testing -INFO - Email is missing , unable to signup
+2020-05-07 13:46:55,410 - WebApplication Testing -INFO - Entered into SignUp
+2020-05-07 13:46:56,092 - WebApplication Testing -INFO - pwd is missing , unable to signup
+2020-05-07 13:46:56,095 - WebApplication Testing -INFO - Entered into SignUp
+2020-05-07 13:46:57,839 - WebApplication Testing -INFO - Successfully signup

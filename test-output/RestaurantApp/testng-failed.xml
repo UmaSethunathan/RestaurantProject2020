@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [RestaurantApp]">
+  <listeners>
+    <listener class-name="com.Restaurant.utilities.Reporting"/>
+  </listeners>
+  <test name="RestaurantApp Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.Restaurant.testCases.TC_SearchForDish_002">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="Search_Dish"/>
+        </methods>
+      </class> <!-- com.Restaurant.testCases.TC_SearchForDish_002 -->
+    </classes>
+  </test> <!-- RestaurantApp Test(failed) -->
+</suite> <!-- Failed suite [RestaurantApp] -->

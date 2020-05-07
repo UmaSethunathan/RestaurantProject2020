@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # RestaurantProject2020
+=======
+>>>>>>> initial commit
 # Project Title: RestaurantProject2019
 * Technology Used : Java, TestNG, Selenium, Maven
 * Framework Used: Page Object Model
@@ -16,3 +19,7 @@
 * Click on the Searched Restaurant
 * Added postive and Negative login Tests
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> initial commit

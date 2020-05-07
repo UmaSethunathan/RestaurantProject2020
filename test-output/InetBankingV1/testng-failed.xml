@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [InetBankingV1]">
+  <listeners>
+    <listener class-name="com.Restaurant.utilities.Reporting"/>
+  </listeners>
+  <test name="RestaurantApp Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.Restaurant.testCases.TC_AddLoginCredentials_003">
+        <methods>
+          <include name="SignUpTest" invocation-numbers="2 3"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.Restaurant.testCases.TC_AddLoginCredentials_003 -->
+    </classes>
+  </test> <!-- RestaurantApp Test(failed) -->
+</suite> <!-- Failed suite [InetBankingV1] -->
